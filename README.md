@@ -1,2 +1,2 @@
 # Mikrotik-Script
-File Mikrotik
+<SUB>Untuk menggunakan file dengan mengcopy ke terminal mikrotik</SUB>
